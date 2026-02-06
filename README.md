@@ -1,16 +1,24 @@
-# Olá! Eu sou Evando Pereira De Oliveira 👋
+Olá! Eu sou Evando Pereira de Oliveira 👋
 
-Sou um desenvolvedor de software especializado em **Back-End** com sólida experiência em **Python**. Atualmente, estou focado em **projetos de evolução pessoal** e sempre em busca de aprender e incorporar novas tecnologias.
+Sou um desenvolvedor Full Stack com foco em Back-End, com experiência sólida em Python, C# e Angular. Atualmente estou envolvido em projetos de evolução pessoal e no desenvolvimento de aplicações completas, do servidor à interface.
 
-## 🌟 Projetos em Destaque
+🌟 Projetos em Destaque
 
-- **[Guerra Dos Tronos]**: Um jogo de aventura e ação com visão top-down, ambientado no universo de Game of Thrones. Oferece aos jogadores a escolha entre três personagens, cada um com características e habilidades próprias, com o objetivo de conquistar o Trono de Ferro.
-- **[Análise de Dados do SAMU 2023 em Pernambuco]**: Projeto voltado para a análise da base de dados do SAMU 2023 em Pernambuco, com o objetivo de simplificar e transmitir informações de forma mais clara e acessível.
-- **[Introduction]**: Coleção de códigos desenvolvidos para a resolução de problemas em sala de aula, visando aprimorar o conhecimento em Python.
+[Guerra dos Tronos]: Jogo de aventura e ação em visão top-down, inspirado no universo de Game of Thrones, com múltiplos personagens jogáveis e progressão de habilidades.
 
-## 🔧 Tecnologias e Ferramentas
-- **Linguagens**: Python
-- **Ferramentas**: Git, Docker
+[RPG Cards – Jikstra Chronicles]: Jogo de cartas (TCG) desenvolvido em C# (API) e Angular (Front-End), baseado no universo de uma campanha de RPG própria, com sistema de batalhas, cartas e personagens.
 
-## 📫 Como me encontrar
-- [Email](mailto:evando.pereira@ufpe.br)
+[Análise de Dados do SAMU 2023 em Pernambuco]: Projeto de análise de dados com foco em visualização e interpretação de informações públicas.
+
+[Introduction]: Repositório com soluções de exercícios e exemplos didáticos para aprendizado de programação.
+
+🔧 Tecnologias e Ferramentas
+
+Linguagens: Python, C#, TypeScript
+
+Frameworks: Angular, .NET
+
+Ferramentas: Git, Docker
+
+📫 Como me encontrar:
+evando.pereira@ufpe.br
